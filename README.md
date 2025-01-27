@@ -18,14 +18,19 @@ Geometry Calculator adalah aplikasi sederhana berbasis PHP yang digunakan untuk 
 Jalankan perintah berikut di terminal atau command prompt untuk mengunduh kode:  
 ```sh
 git clone https://github.com/Setiawan2800/geometry-calculator.git
+```
+🔹 **2. Menjalankan dengan Laragon**
+-Pindahkan folder hasil clone ke dalam folder laragon\www\
+-Buka Laragon, lalu klik Start All
+-Akses proyek di browser: 
+```sh
+http://localhost/geometry-calculator/
+```
 
-🔹 2. Menjalankan dengan Laragon
-Pindahkan folder hasil clone ke dalam C:\laragon\www\
-Buka Laragon, lalu klik Start All
-Akses proyek di browser:
+🔹 **3. Menjalankan dengan XAMPP**
+-Pindahkan folder hasil clone ke dalam folder xampp\htdocs\
+-Jalankan Apache melalui XAMPP Control Panel
+-Akses proyek di browser: 
+```sh
 http://localhost/geometry-calculator/
-🔹 3. Menjalankan dengan XAMPP
-Pindahkan folder hasil clone ke dalam C:\xampp\htdocs\
-Jalankan Apache melalui XAMPP Control Panel
-Akses proyek di browser:
-http://localhost/geometry-calculator/
+```
